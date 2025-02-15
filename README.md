@@ -1,2 +1,2 @@
-######    deepseek-ai using Ollama and by calling deepseek API   ######
+######    deepseek-ai-app using Ollama and by calling deepseek API   ######
 
